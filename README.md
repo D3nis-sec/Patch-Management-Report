@@ -6,9 +6,6 @@ It discusses the risks of unpatched systems, the benefits of timely software upd
 
 ---
 
-## Report
-- (Patch_Management_Report.md`](Patch_Management_Report.md)
-
 
 ##  Contents
 - **Patch_Management_Report.docx** – Professionally written research report covering:
