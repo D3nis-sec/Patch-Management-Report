@@ -28,10 +28,6 @@ This report is intended for:
 - Practical recommendations for risk-based patch prioritisation.
 - Steps for implementing testing, automation, governance, and emergency patching procedures.
 
----
 
-## 📌 Usage
-1. Download and open `Patch_Management_Report.md` 
 
-This report is provided for educational and organisational policy development purposes.  
-You may adapt or redistribute it with attribution.
+
